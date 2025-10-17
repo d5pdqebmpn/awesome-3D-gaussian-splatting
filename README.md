@@ -266,3 +266,5 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 >>>>>>> 7656f5e7ed3bc239fae0e9a8e1990be82bd7daa9
 
 <!-- Auto-update: 2025-10-15T10:46:43.619935 -->
+
+<!-- Auto-update: 2025-10-17T14:45:23.550273 -->
